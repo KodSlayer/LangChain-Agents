@@ -2,7 +2,7 @@
 # Nodes -> Agents or functions
 # Edges -> Connect Nodes
 # Conditional Edges -> decisions
-# We are also using "Tavily" a search engine for AI agents to get the real time data like 
+# We are also using "Tavily" a search engine for AI agents to get the real time data like // Research Agent
 # Weather and current affairs
 
 from langchain_groq import ChatGroq
@@ -74,9 +74,29 @@ Only look up information when you are sure of what you want. \
 If you need to look up some information before asking a follow up question, you are allowed to do that!
 """
 
-model = ChatGroq(model="gpt-3.5-turbo")  #reduce inference cost
+model = ChatGroq(model="meta-llama/llama-4-maverick-17b-128e-instruct")  #reduce inference cost
 abot = Agent(model, [tool], system=prompt)
 
-from IPython.display import Image
+# This is the human message to be sent sample 1
+# messages = [HumanMessage(content="What is the weather in sf?")]
+# result = abot.graph.invoke({"messages": messages})
 
-Image(abot.graph.get_graph().draw_png())
+# print(result['messages'][-1].content)
+
+# Another message we can send
+# messages = [HumanMessage(content="What is the weather in SF and LA?")]
+# result = abot.graph.invoke({"messages": messages})
+
+# print(result['messages'][-1].content)
+
+# This is another complex query which is uses powerful model 
+# Note, the query was modified to produce more consistent results. 
+# Results may vary per run and over time as search information and models change.
+
+query = "Who won the super bowl in 2024? In what state is the winning team headquarters located? \
+What is the GDP of that state? Answer each question." 
+messages = [HumanMessage(content=query)]
+
+result = abot.graph.invoke({"messages": messages})
+
+print(result['messages'][-1].content)
