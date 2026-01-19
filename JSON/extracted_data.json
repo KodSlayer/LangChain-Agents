@@ -1,0 +1,2342 @@
+[
+  {
+    "page_number": 1,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P012-002",
+        "product_name": "TRANSMIX",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": 730.25,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 10328.95,
+        "total_net_movements": 728.65,
+        "closing_book_inventory": 11057.6,
+        "tank_inventory": 10838.78,
+        "line_inventory": 29.6,
+        "total_physical_inventory": 10868.38,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": "6-11-0",
+        "safe_fill_height": "44-02-00",
+        "ending_tank_gauge": "39-05-13 Radar Gauge",
+        "swing_gauge": "78.7 Degrees",
+        "measurement_timestamp": "2025-04-30 16:20:00"
+      }
+    }
+  },
+  {
+    "page_number": 2,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P060-001",
+        "product_name": "TRANSMIX",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": 2950.77,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": -4377.19,
+        "total_net_movements": -2950.77,
+        "closing_book_inventory": -7327.96,
+        "tank_inventory": 35963.02,
+        "line_inventory": 1714.03,
+        "total_physical_inventory": 37677.05,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": "7-8-0",
+        "safe_fill_height": "61-00-00",
+        "ending_tank_gauge": "37-09-02 Swing Gauge",
+        "swing_gauge": "79.0 Degrees",
+        "measurement_timestamp": "2025-04-30 23:58:00"
+      }
+    }
+  },
+  {
+    "page_number": 3,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-007",
+        "product_name": "M.T.B.E",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": 27294.11,
+        "total_shipped": 27294.11,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 0.0,
+        "total_net_movements": 27294.11,
+        "closing_book_inventory": 27294.11,
+        "tank_inventory": 26784.12,
+        "line_inventory": 509.99,
+        "total_physical_inventory": 27294.11,
+        "variation": 0.0
+      },
+      "measurement_details": {
+        "low_gauge": "6-2-0",
+        "safe_fill_height": "60-06-00",
+        "ending_tank_gauge": "17-03-06 Swing Gauge",
+        "swing_gauge": "79.4 Degrees",
+        "measurement_timestamp": "2025-04-30 19:30:00"
+      }
+    }
+  },
+  {
+    "page_number": 4,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-014",
+        "product_name": "M.T.B.E",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": 52310.1,
+        "total_shipped": 42935.27,
+        "total_vapor": 9.75,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 5,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-014",
+        "product_name": "M.T.B.E",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 2,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": 162460.58,
+        "total_shipped": 168797.17,
+        "total_vapor": 35.75,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 95008.84,
+        "total_net_movements": -6336.59,
+        "closing_book_inventory": 88672.25,
+        "tank_inventory": 88711.59,
+        "line_inventory": 24.84,
+        "total_physical_inventory": 88736.43,
+        "variation": 64.18
+      },
+      "measurement_details": {
+        "low_gauge": "7-3-0",
+        "safe_fill_height": "60-06-00",
+        "ending_tank_gauge": "55-01-04 Swing Gauge",
+        "swing_gauge": "78.6 Degrees",
+        "measurement_timestamp": "2025-04-30 23:58:00"
+      }
+    }
+  },
+  {
+    "page_number": 6,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-015",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": "382,045.59",
+        "total_shipped": "416,923.46",
+        "total_vapor": "70.75",
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 7,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-015",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 2,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 8,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-015",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 3,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": "382,045.59",
+        "total_shipped": "416,923.46",
+        "total_vapor": "70.75",
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": "93,694.90",
+        "total_net_movements": "-34,877.87",
+        "closing_book_inventory": "58,817.03",
+        "tank_inventory": "56,931.48",
+        "line_inventory": "1,713.96",
+        "total_physical_inventory": "58,645.44",
+        "variation": "-171.59"
+      },
+      "measurement_details": {
+        "low_gauge": "7-5-0",
+        "safe_fill_height": "60-60-0",
+        "ending_tank_gauge": "35-09-11",
+        "swing_gauge": "Radar Gauge",
+        "measurement_timestamp": "2025-04-30 23:58:00"
+      }
+    }
+  },
+  {
+    "page_number": 9,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-016",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 10,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-016",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 2,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 11,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-016",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 3,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 12,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-016",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 4,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 13,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-016",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 5,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 14,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-016",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 6,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": "445,381.00",
+        "total_shipped": "349,881.60",
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": "1,780.45",
+        "total_net_movements": "95,499.40",
+        "closing_book_inventory": "97,279.85",
+        "tank_inventory": "96,316.54",
+        "line_inventory": "1,299.50",
+        "total_physical_inventory": "97,616.04",
+        "variation": "336.19"
+      },
+      "measurement_details": {
+        "low_gauge": "7-4-0",
+        "safe_fill_height": "60-06-00",
+        "ending_tank_gauge": "60-03-08",
+        "swing_gauge": "106.0 Degrees",
+        "measurement_timestamp": "2025-04-30 20:35:00"
+      }
+    }
+  },
+  {
+    "page_number": 15,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-017",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 16,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-017",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 2,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 17,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-017",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 3,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 18,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-017",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 4,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 19,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-017",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 5,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 20,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-017",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 6,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 21,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-017",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 7,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 22,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P100-017",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 8,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": "108,510.57",
+        "total_shipped": "176,728.37",
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": "69,493.52",
+        "total_net_movements": "(68,217.80)",
+        "closing_book_inventory": "1,275.72",
+        "tank_inventory": "97.15",
+        "line_inventory": "915.08",
+        "total_physical_inventory": "1,012.23",
+        "variation": "(263.49)"
+      },
+      "measurement_details": {
+        "low_gauge": "7-4-0",
+        "safe_fill_height": "60-06-00",
+        "ending_tank_gauge": "0-06-04",
+        "swing_gauge": "Radar Gauge",
+        "measurement_timestamp": "2025-04-30 17:20:00"
+      }
+    }
+  },
+  {
+    "page_number": 23,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-005",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 24,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-005",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 2,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 25,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-005",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 3,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": "233,600.04",
+        "total_shipped": "252,483.87",
+        "total_vapor": "28.00",
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": "90,838.38",
+        "total_net_movements": "(18,883.83)",
+        "closing_book_inventory": "71,954.55",
+        "tank_inventory": "69,398.34",
+        "line_inventory": "2,731.13",
+        "total_physical_inventory": "72,129.47",
+        "variation": "174.92"
+      },
+      "measurement_details": {
+        "low_gauge": "7-10-0",
+        "safe_fill_height": "60-08-00",
+        "ending_tank_gauge": "35-09-04",
+        "swing_gauge": "Radar Gauge",
+        "measurement_timestamp": "2025-04-30 23:58:00"
+      }
+    }
+  },
+  {
+    "page_number": 26,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-006",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": 313514.18,
+        "total_shipped": 318740.94,
+        "total_vapor": 21.75,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 95442.2,
+        "total_net_movements": -5226.76,
+        "closing_book_inventory": 90215.44,
+        "tank_inventory": 90211.67,
+        "line_inventory": 133.63,
+        "total_physical_inventory": 90345.3,
+        "variation": 129.86
+      },
+      "measurement_details": {
+        "low_gauge": "7-11-0",
+        "safe_fill_height": "60-08-00",
+        "ending_tank_gauge": "46-06-15 Radar Gauge",
+        "swing_gauge": "82.1 Degrees",
+        "measurement_timestamp": "2025-04-30 23:58:00"
+      }
+    }
+  },
+  {
+    "page_number": 27,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-007",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": 220164.02,
+        "total_shipped": 190197.68,
+        "total_vapor": 12.25,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 66929.75,
+        "total_net_movements": 29966.34,
+        "closing_book_inventory": 96896.09,
+        "tank_inventory": 96838.01,
+        "line_inventory": 133.63,
+        "total_physical_inventory": 96971.64,
+        "variation": 75.55
+      },
+      "measurement_details": {
+        "low_gauge": "7-9-0",
+        "safe_fill_height": "61-00-00",
+        "ending_tank_gauge": "49-09-06 Swing Gauge",
+        "swing_gauge": "83.0 Degrees",
+        "measurement_timestamp": "2025-04-30 13:45:00"
+      }
+    }
+  },
+  {
+    "page_number": 28,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-008",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 31,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-008",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 2,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": 362443.02,
+        "total_shipped": 367589.9,
+        "total_vapor": 36.75,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 101236.17,
+        "total_net_movements": -5146.7,
+        "closing_book_inventory": 96089.47,
+        "tank_inventory": 95944.38,
+        "line_inventory": 133.63,
+        "total_physical_inventory": 96078.01,
+        "variation": -11.46
+      },
+      "measurement_details": {
+        "low_gauge": "7-10-0",
+        "safe_fill_height": "60-08-00",
+        "ending_tank_gauge": "49-03-10",
+        "swing_gauge": "85.7 Degrees",
+        "measurement_timestamp": "2025-04-30 14:30:00"
+      }
+    }
+  },
+  {
+    "page_number": 32,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-009",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 33,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-009",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 2,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 34,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-009",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 3,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": 365955.54,
+        "total_shipped": 344469.06,
+        "total_vapor": 7.75,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 96506.16,
+        "total_net_movements": 20486.48,
+        "closing_book_inventory": 116992.64,
+        "tank_inventory": 116576.04,
+        "line_inventory": 133.63,
+        "total_physical_inventory": 116709.67,
+        "variation": -282.97
+      },
+      "measurement_details": {
+        "low_gauge": "7-9-0",
+        "safe_fill_height": "61-00-00",
+        "ending_tank_gauge": "59-06-12",
+        "swing_gauge": "79.3 Degrees",
+        "measurement_timestamp": "2025-04-30 14:35:00"
+      }
+    }
+  },
+  {
+    "page_number": 35,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-010",
+        "product_name": "NAPHTHA",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1512 (1478284)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 36,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-011",
+        "product_name": "NAPHTHA",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1512 (1478284)"
+      },
+      "transaction_summary": {
+        "total_received": 59252.62,
+        "total_shipped": 26966.62,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 13618.06,
+        "total_net_movements": 32286.0,
+        "closing_book_inventory": 45904.06,
+        "tank_inventory": 45926.03,
+        "line_inventory": 21.76,
+        "total_physical_inventory": 45947.79,
+        "variation": 43.73
+      },
+      "measurement_details": {
+        "low_gauge": "7-7-0",
+        "safe_fill_height": "69-00-00",
+        "ending_tank_gauge": "27-07-04",
+        "swing_gauge": "77.0 Degrees",
+        "measurement_timestamp": "2025-04-30 11:40:00"
+      }
+    }
+  },
+  {
+    "page_number": 37,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-010",
+        "product_name": "NAPHTHA",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 2,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1512 (1478284)"
+      },
+      "transaction_summary": {
+        "total_received": 180534.09,
+        "total_shipped": 147396.11,
+        "total_vapor": null,
+        "total_nitrogen": 0.5
+      },
+      "inventory_summary": {
+        "beginning_inventory": 667.96,
+        "total_net_movements": 33137.98,
+        "closing_book_inventory": 33805.94,
+        "tank_inventory": 33517.82,
+        "line_inventory": 133.63,
+        "total_physical_inventory": 33651.45,
+        "variation": -154.49
+      },
+      "measurement_details": {
+        "low_gauge": "7-6-0",
+        "safe_fill_height": "61-00-00",
+        "ending_tank_gauge": "17-10-08",
+        "swing_gauge": "86.3 Degrees",
+        "measurement_timestamp": "2025-04-30 12:40:00"
+      }
+    }
+  },
+  {
+    "page_number": 38,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-012",
+        "product_name": "NAPHTHA",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1512 (1478284)"
+      },
+      "transaction_summary": {
+        "total_received": 293990.79,
+        "total_shipped": 274924.24,
+        "total_vapor": null,
+        "total_nitrogen": 4.0
+      },
+      "inventory_summary": {
+        "beginning_inventory": 33973.87,
+        "total_net_movements": 19066.55,
+        "closing_book_inventory": 53040.42,
+        "tank_inventory": 52803.89,
+        "line_inventory": 14.62,
+        "total_physical_inventory": 52818.51,
+        "variation": -221.91
+      },
+      "measurement_details": {
+        "low_gauge": "7-8-0",
+        "safe_fill_height": "69-00-00",
+        "ending_tank_gauge": "31-08-00",
+        "swing_gauge": "80.5 Degrees",
+        "measurement_timestamp": "2025-04-30 11:55:00"
+      }
+    }
+  },
+  {
+    "page_number": 39,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-013",
+        "product_name": "NAPHTHA",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1512 (1478284)"
+      },
+      "transaction_summary": {
+        "total_received": 82352.54,
+        "total_shipped": 57161.51,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 42027.76,
+        "total_net_movements": 25191.03,
+        "closing_book_inventory": 67218.79,
+        "tank_inventory": 67110.28,
+        "line_inventory": 21.44,
+        "total_physical_inventory": 67131.72,
+        "variation": -87.07
+      },
+      "measurement_details": {
+        "low_gauge": "7-8-0",
+        "safe_fill_height": "69-00-00",
+        "ending_tank_gauge": "39-10-00",
+        "swing_gauge": "77.0 Degrees",
+        "measurement_timestamp": "2025-04-30 12:10:00"
+      }
+    }
+  },
+  {
+    "page_number": 41,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-014",
+        "product_name": "NAPHTHA",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1512 (1478284)"
+      },
+      "transaction_summary": {
+        "total_received": "179,969.93",
+        "total_shipped": "138,212.53",
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": "11,387.25",
+        "total_net_movements": "41,757.40",
+        "closing_book_inventory": "53,144.65",
+        "tank_inventory": "52,942.62",
+        "line_inventory": "15.18",
+        "total_physical_inventory": "52,957.80",
+        "variation": "(186.85)"
+      },
+      "measurement_details": {
+        "low_gauge": "7-8-0",
+        "safe_fill_height": "69-00-00 119,188",
+        "ending_tank_gauge": "31-10-06",
+        "swing_gauge": "81.4 Degrees",
+        "measurement_timestamp": "2025-04-30 12:20:00"
+      }
+    }
+  },
+  {
+    "page_number": 42,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-015",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": "127,092.84",
+        "total_shipped": "135,538.56",
+        "total_vapor": "24.75",
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": "118,003.41",
+        "total_net_movements": "(8,445.72)",
+        "closing_book_inventory": "109,557.69",
+        "tank_inventory": "109,228.29",
+        "line_inventory": "21.26",
+        "total_physical_inventory": "109,249.55",
+        "variation": "(308.14)"
+      },
+      "measurement_details": {
+        "low_gauge": "7-9-0",
+        "safe_fill_height": "69-00-00 119,180",
+        "ending_tank_gauge": "64-04-15 Radar Gauge",
+        "swing_gauge": "80.4 Degrees",
+        "measurement_timestamp": "2025-04-30 23:58:00"
+      }
+    }
+  },
+  {
+    "page_number": 43,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-016",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": "353,939.22",
+        "total_shipped": "355,417.56",
+        "total_vapor": "32.25",
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": "55,187.62",
+        "total_net_movements": "(1,478.34)",
+        "closing_book_inventory": "53,709.28",
+        "tank_inventory": "54,097.99",
+        "line_inventory": "15.30",
+        "total_physical_inventory": "54,113.29",
+        "variation": "404.01"
+      },
+      "measurement_details": {
+        "low_gauge": "7-9-0",
+        "safe_fill_height": "69-00-00 119,054",
+        "ending_tank_gauge": "32-05-06",
+        "swing_gauge": "81.8 Degrees",
+        "measurement_timestamp": "2025-04-30 23:45:00"
+      }
+    }
+  },
+  {
+    "page_number": 46,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-017",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": 336725.61,
+        "total_shipped": 344752.08,
+        "total_vapor": 15.0,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 616.22,
+        "total_net_movements": 83922.08,
+        "closing_book_inventory": 75895.61,
+        "tank_inventory": 75268.3,
+        "line_inventory": 75884.52,
+        "total_physical_inventory": 75884.52,
+        "variation": -11.09
+      },
+      "measurement_details": {
+        "low_gauge": "7-9-0",
+        "safe_fill_height": "69-00-00",
+        "ending_tank_gauge": "44-07-10",
+        "swing_gauge": "80.4 Degrees",
+        "measurement_timestamp": "2025-04-30 13:50:00"
+      }
+    }
+  },
+  {
+    "page_number": 47,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-017",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 2,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": 336725.61,
+        "total_shipped": 344752.08,
+        "total_vapor": 15.0,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 616.22,
+        "total_net_movements": 83922.08,
+        "closing_book_inventory": 75895.61,
+        "tank_inventory": 75268.3,
+        "line_inventory": 75884.52,
+        "total_physical_inventory": 75884.52,
+        "variation": -11.09
+      },
+      "measurement_details": {
+        "low_gauge": "7-9-0",
+        "safe_fill_height": "69-00-00",
+        "ending_tank_gauge": "44-07-10",
+        "swing_gauge": "80.4 Degrees",
+        "measurement_timestamp": "2025-04-30 13:50:00"
+      }
+    }
+  },
+  {
+    "page_number": 51,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-019",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 2,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": 310954.15,
+        "total_shipped": 347559.08,
+        "total_vapor": 6.5,
+        "total_nitrogen": 18.0
+      },
+      "inventory_summary": {
+        "beginning_inventory": 101631.02,
+        "total_net_movements": -36604.93,
+        "closing_book_inventory": 65026.09,
+        "tank_inventory": 65138.39,
+        "line_inventory": 20.5,
+        "total_physical_inventory": 65158.89,
+        "variation": 132.8
+      },
+      "measurement_details": {
+        "low_gauge": "7-9-00",
+        "safe_fill_height": "69-00-00",
+        "ending_tank_gauge": "38-09-00",
+        "swing_gauge": "82.3 Degrees",
+        "measurement_timestamp": "2025-04-30 23:58:00"
+      }
+    }
+  },
+  {
+    "page_number": 52,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P120-020",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": 269233.59,
+        "total_shipped": 295959.53,
+        "total_vapor": 26.75,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 79539.24,
+        "total_net_movements": -26635.94,
+        "closing_book_inventory": 52903.3,
+        "tank_inventory": 52740.39,
+        "line_inventory": 501.1,
+        "total_physical_inventory": 53241.49,
+        "variation": 338.19
+      },
+      "measurement_details": {
+        "low_gauge": "7-8-00",
+        "safe_fill_height": "69-00-00",
+        "ending_tank_gauge": "31-03-05",
+        "swing_gauge": "78.2 Degrees",
+        "measurement_timestamp": "2025-04-30 23:58:00"
+      }
+    }
+  },
+  {
+    "page_number": 53,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P165-004",
+        "product_name": "ULTRA LOW SULFUR DIESEL UNDYED",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/25/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": 191716.0,
+        "total_shipped": 50093.2,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 0.0,
+        "total_net_movements": 141622.8,
+        "closing_book_inventory": 141622.8,
+        "tank_inventory": 141090.22,
+        "line_inventory": 139.73,
+        "total_physical_inventory": 141229.95,
+        "variation": -392.85
+      },
+      "measurement_details": {
+        "low_gauge": "6-10-00",
+        "safe_fill_height": "60-08-00",
+        "ending_tank_gauge": "53-01-06",
+        "swing_gauge": "104.8 Degrees",
+        "measurement_timestamp": "2025-04-30 23:58:00"
+      }
+    }
+  },
+  {
+    "page_number": 54,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P165-004",
+        "product_name": "JET A FUEL",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/24/2025",
+        "tsa_number": "TSA P1514 (1478348)"
+      },
+      "transaction_summary": {
+        "total_received": 76048.13,
+        "total_shipped": 76700.3,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 719.52,
+        "total_net_movements": -652.17,
+        "closing_book_inventory": 67.35,
+        "tank_inventory": 0.0,
+        "line_inventory": 0.0,
+        "total_physical_inventory": 0.0,
+        "variation": -67.35
+      },
+      "measurement_details": {
+        "low_gauge": "6-10-00",
+        "safe_fill_height": "60-08-00",
+        "ending_tank_gauge": "00-00-00",
+        "swing_gauge": "75.3 Degrees",
+        "measurement_timestamp": "2025-04-24 23:59:00"
+      }
+    }
+  },
+  {
+    "page_number": 56,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P165-011",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": "584,410.74",
+        "total_shipped": "697,279.98",
+        "total_vapor": "28.00",
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": "133,484.31",
+        "total_net_movements": "(112,869.24)",
+        "closing_book_inventory": "20,615.07",
+        "tank_inventory": "20,740.06",
+        "line_inventory": null,
+        "total_physical_inventory": "20,873.69",
+        "variation": "258.62"
+      },
+      "measurement_details": {
+        "low_gauge": "7-10-00 19.221",
+        "safe_fill_height": "61-00-00 164,929",
+        "ending_tank_gauge": "8-06-05 Radar Gauge",
+        "swing_gauge": "80.4 Degrees",
+        "measurement_timestamp": "2025-04-30 23:58:00"
+      }
+    }
+  },
+  {
+    "page_number": 57,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P165-011",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 2,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 58,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P165-011",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 3,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": "133,484.31",
+        "total_net_movements": "(112,869.24)",
+        "closing_book_inventory": "20,615.07",
+        "tank_inventory": "20,740.06",
+        "line_inventory": null,
+        "total_physical_inventory": "20,873.69",
+        "variation": "258.62"
+      },
+      "measurement_details": {
+        "low_gauge": "7-10-00 19.221",
+        "safe_fill_height": "61-00-00 164,929",
+        "ending_tank_gauge": "8-06-05 Radar Gauge",
+        "swing_gauge": "80.4 Degrees",
+        "measurement_timestamp": "2025-04-30 23:58:00"
+      }
+    }
+  },
+  {
+    "page_number": 59,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P165-012",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 1,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 60,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P165-012",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 2,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "TSA P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": null,
+        "total_shipped": null,
+        "total_vapor": null,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": null,
+        "total_net_movements": null,
+        "closing_book_inventory": null,
+        "tank_inventory": null,
+        "line_inventory": null,
+        "total_physical_inventory": null,
+        "variation": null
+      },
+      "measurement_details": {
+        "low_gauge": null,
+        "safe_fill_height": null,
+        "ending_tank_gauge": null,
+        "swing_gauge": null,
+        "measurement_timestamp": null
+      }
+    }
+  },
+  {
+    "page_number": 61,
+    "data": {
+      "document_type": "Stock Accounting Summary",
+      "company_details": {
+        "operator_company": "INTERCONTINENTAL TERMINALS COMPANY LLC",
+        "operator_address": "1943 INDEPENDENCE PARKWAY S\nLAPORTE TX 77571",
+        "customer_company": "SHELL TRADING (US) COMPANY",
+        "customer_address": "1000 MAIN STREET, LEVEL 12\nHOUSTON TX 77002"
+      },
+      "product_details": {
+        "product_code": "P165-012",
+        "product_name": "GASOLINE BLENDSTOCK",
+        "unit": "Barrels"
+      },
+      "report_details": {
+        "page_number": 3,
+        "begin_date": "4/1/2025",
+        "end_date": "4/30/2025",
+        "tsa_number": "P1513 (1478313)"
+      },
+      "transaction_summary": {
+        "total_received": 324460.76,
+        "total_shipped": 365769.77,
+        "total_vapor": 42.0,
+        "total_nitrogen": null
+      },
+      "inventory_summary": {
+        "beginning_inventory": 149907.35,
+        "total_net_movements": -41309.01,
+        "closing_book_inventory": 108598.34,
+        "tank_inventory": 105330.22,
+        "line_inventory": 3238.32,
+        "total_physical_inventory": 108568.54,
+        "variation": -29.8
+      },
+      "measurement_details": {
+        "low_gauge": "7-8-0",
+        "safe_fill_height": "61-00-00",
+        "ending_tank_gauge": "39-09-04",
+        "swing_gauge": "81.7 Degrees",
+        "measurement_timestamp": "2025-04-30 23:55:00"
+      }
+    }
+  }
+]
