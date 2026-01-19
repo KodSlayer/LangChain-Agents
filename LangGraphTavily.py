@@ -93,8 +93,8 @@ abot = Agent(model, [tool], system=prompt)
 # Note, the query was modified to produce more consistent results. 
 # Results may vary per run and over time as search information and models change.
 
-query = "Who won the super bowl in 2024? In what state is the winning team headquarters located? \
-What is the GDP of that state? Answer each question." 
+query = "Who won the IPL 2025? For which city does the team belong to? \
+   what is the GDP of that state? Answer each question." 
 messages = [HumanMessage(content=query)]
 
 result = abot.graph.invoke({"messages": messages})

@@ -1,3 +1,13 @@
 langchain
 langgraph_groq
 langgraph.graph
+pypdfloader
+langchain 
+langchain-openai 
+pypdf 
+pymupdf 
+python-dotenv
+langchain-openai 
+pypdfloader
+pymupdf
+langchain.prompts
